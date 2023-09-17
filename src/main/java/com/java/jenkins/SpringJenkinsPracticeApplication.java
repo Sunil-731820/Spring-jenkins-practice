@@ -9,9 +9,10 @@ import ch.qos.logback.classic.Logger;
 @SpringBootApplication
 public class SpringJenkinsPracticeApplication {
 
-	Logger logger = LoggerFactory.getILoggerFactory();
+	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsPracticeApplication.class, args);
+		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
 	}
 
 }
