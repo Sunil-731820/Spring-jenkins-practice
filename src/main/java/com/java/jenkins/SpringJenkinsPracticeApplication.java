@@ -10,28 +10,6 @@ import ch.qos.logback.classic.Logger;
 public class SpringJenkinsPracticeApplication {
 
 	
-	public static void main(String[] args) {
-		SpringApplication.run(SpringJenkinsPracticeApplication.class, args);
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-		System.out.println("This is The Example Of teh Spring Boot Projcets : ");
-	}
+	
 
 }
