@@ -9,7 +9,7 @@ import ch.qos.logback.classic.Logger;
 @SpringBootApplication
 public class SpringJenkinsPracticeApplication {
 
-	
+	org.slf4j.Logger log = LoggerFactory.getLogger(SpringJenkinsPracticeApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsPracticeApplication.class, args);
 		System.out.println("This is the Example Of The Jenkins ");
